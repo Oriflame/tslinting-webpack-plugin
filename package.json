@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "cfmano",
+    "email": "cfmano@gmail.com"
+  },
+  "description": "WebPack plugin for interactive call of TSLint",
+  "keywords": [
+    "typescript",
+    "tslint",
+    "webpack",
+    "tslinting-webpack-plugin"
+  ],
+  "main": "index.js",
+  "name": "tslinting-webpack-plugin",
+  "peerDependencies": {
+    "tslint": "^5.8.0",
+	"webpack": "^3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfmano/tslinting-webpack-plugin.git"
+  },
+  "version": "0.0.1"
+}
